@@ -1,4 +1,8 @@
-Abbreviations:
+# Deep Learning With Python
+the following is a set of jupyter notebooks based on the examples given in 
+the book 'Deep Learning with Python' by Francois Chollet
+
+## Abbreviations:
 ch = chapter
 sc = subchapter
     * ch3 + sc3 = ch 3.3
